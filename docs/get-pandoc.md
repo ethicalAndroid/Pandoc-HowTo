@@ -10,7 +10,7 @@ This guide will show users how to get the latest Pandoc installation by using th
 
 ## Steps
 
-1. Go to [pandoc.org](pandoc.org).
+1. Go to [pandoc.org](https://pandoc.org/).
 1. Click the _Installing_ tab in the website.
 1. Click the large button starting with **Download the latest installer**.
 1. Start the Pandoc installer after it has finished downloading.
