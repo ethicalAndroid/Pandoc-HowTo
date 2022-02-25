@@ -21,7 +21,7 @@ This guide will walk new Pandoc users through converting their first Markdown fi
     </figure>
 1. Left-click the "Copy Address as text" option. _See figure 2._
     <figure>
-    <img src="copy-address.png" alt="Picture of the end of the file path.">
+    <img src="copy-address.png" alt="Picture of a button labelled 'Copy Address as text'.">
     <figcaption>Figure 2</figcaption>
     </figure>
 1. Open the command prompt.  
