@@ -1,6 +1,6 @@
 # How to Convert Markdown to Word
 
-Goal goal goal
+This guide will walk new Pandoc users through converting their first Markdown file `.md` into a Word file `.docx`.  
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Goal goal goal
     <img src="select-last.png" alt="Picture of the end of the file path.">
     <figcaption>Figure 1</figcaption>
     </figure>
-1. Click the "Copy Address" option. _See figure 2._
+1. Click the "Copy Address as text" option. _See figure 2._
     <figure>
     <img src="copy-address.png" alt="Picture of the end of the file path.">
     <figcaption>Figure 2</figcaption>

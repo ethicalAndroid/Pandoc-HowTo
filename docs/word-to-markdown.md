@@ -1,6 +1,6 @@
 # How to Convert Word to Markdown
 
-Goal goal goal
+This guide will walk new Pandoc users through converting their first Word file `.docx` into a Markdown file `.md`.  
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ Goal goal goal
     <figcaption>Figure 2</figcaption>
     </figure>
 1. Open the command prompt.  
-    > The command prompt can easily be found by searching it using the "search" tool in the taskbar of any Windows machine.
+    > Tip: The command prompt can easily be found by searching it using the "search" tool in the taskbar of any Windows machine.
 1. Type `cd Z` into the prompt.
 1. Replace `Z` by pasteing the file path using CTRL-V.
 1. Press the ENTER key.
@@ -38,7 +38,7 @@ Goal goal goal
 ## Results
 
 You should have a converted Markdown file with the `.md` file extension.  
-You should also have a folder that includes any images from the Word file.  
+You should also have a folder that includes any images extracted from the Word file.  
 Make sure to examine your file for any errors in the conversion.
 
 {% include footer.md %}
