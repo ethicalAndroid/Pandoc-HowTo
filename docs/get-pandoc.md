@@ -1,6 +1,7 @@
 # How to Download and Install Pandoc
 
-Goal goal goal
+Before you can use Pandoc to convert files, you need a Pandoc installation on your computer.
+This guide will show users how to get the latest Pandoc installation by using the Pandoc installer.
 
 ## Prerequisites
 
