@@ -4,7 +4,7 @@
 
 By Mateo de la Rosa.
 
-This is the second Github Pages project, created for a User Documentation college course.  
+This is the third Github Pages project, created for a User Documentation college course.  
 
 This project website is made help writers new to the Pandoc conversion tool step through converting their first files.  
 
